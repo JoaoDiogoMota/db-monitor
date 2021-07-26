@@ -1,5 +1,6 @@
 # db-monitor
 
+In this work, it is intended that each group build a database monitor that presents, in a simple way, the main performance evaluation parameters of an Oracle database, allowing students to have a view and an approximation of what are the tasks of a database administrator.
 ([Technical Report](https://github.com/JoaoDiogoMota/db-monitor/blob/main/Report.pdf))
 
 ## Collaborators
